@@ -1,6 +1,10 @@
 ##### For macOS Big Sur and above:
 
-###### brew  reinstall vagrant
+```
+brew  reinstall vagrant
+```
 
 ##### And update plugins:
-###### vagrant plugin update
+```
+vagrant plugin update
+```
